@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Newes from Brest. A diurnal of al that Sir Iohn Norreis hath doone since his last ariuall in Britaine : also of the taking in of the forte by Croyzon, and the names of such captaines gentlemen and others that were slaine and hurte in this seruice. 1594.</title>
+            <author>Norris, John, Sir, 1547?-1597.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1594</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00466</idno>
+            <idno type="STC">STC 18654</idno>
+            <idno type="STC">ESTC S126223</idno>
+            <idno type="EEBO-CITATION">44920378</idno>
+            <idno type="OCLC">ocm 44920378</idno>
+            <idno type="VID">173824</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00466)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173824)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2100:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Newes from Brest. A diurnal of al that Sir Iohn Norreis hath doone since his last ariuall in Britaine : also of the taking in of the forte by Croyzon, and the names of such captaines gentlemen and others that were slaine and hurte in this seruice. 1594.</title>
+                  <author>Norris, John, Sir, 1547?-1597.</author>
+               </titleStmt>
+               <extent>[14] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Peter Short, for Thomas Millington, and are to be sold at his shoppe vnder S. Peters Church in Cornhill.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1594.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-B⁴ (last leaf blank).</note>
+                  <note>Reproduction of original in: Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Norris, John, --  Sir, 1547?-1597.</term>
+               <term>France --  History --  Wars of the Huguenots, 1562-1598.</term>
+               <term>Spain --  History --  Philip II, 1556-1598.</term>
+               <term>Great Britain --  History, Military --  1485-1603.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173824:1"/>
+            <pb facs="tcp:173824:1" rendition="simple:additions"/>
+            <p>Newes from Breſt. A Diurnal of al that Sir Iohn Norreis hath doone ſince his laſt ariuall in Britaine</p>
+            <p>Alſo of the taking in of the forte by Croyzon, and the names of ſuch Captaines gentlemen and others that were ſlaine and hurte in this Seruice. 1594.</p>
+            <figure>
+               <p>ET VS VEA<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> BE<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> VERITAS TVA</p>
+            </figure>
+            <p>Imprinted at London by Peter Short, for Thomas Millington, and are to be ſold at his ſhoppe vnder S. Peters Church in Cornhill. 1594.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:173824:2"/>
+            <pb facs="tcp:173824:2"/>
+            <head>To my eſpeciall and very good friende L. T.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ir if vertue and valure were as ſure to be com<g ref="char:EOLhyphen"/>mended and magnified of many, as it is ſpited and maligned of moſt, I needed not too haue troubled my ſelfe with the writing vnto you the true reporte of our General S. Iohn Norries his late honourable ſeruice in Britaine, where<g ref="char:EOLhyphen"/>in hee hath eſpecially done acceptable ſeruice too the french King and greatly honnored hir royall Maieſtie and re<g ref="char:EOLunhyphen"/>uiued in thoſe partes the reputation of our nation and coun<g ref="char:EOLhyphen"/>try, in performing many and ſundrie valient exploytes there: but cheifly with that lately atempted againſt the impregnable forte by <hi>Croyzon,</hi> which the Spainardes made of purpoſe too countermaund the Caſtle of Breſt, and to make them ſelues maiſters of that great hauen, and to the end you may aparent<g ref="char:EOLhyphen"/>ly ſee how little time he ſpent in vaine, and with what difficul<g ref="char:EOLunhyphen"/>tie it was atchiued, I ſend you a Iurnall of all that Sir Ihon Nor<g ref="char:EOLunhyphen"/>ris did, ſence his laſt ariuall at <hi>Penpole</hi> in Britaine to this time which I can aſſure you to be moſt true: Being my ſelfe an eye witnes &amp; noting daily euery daies actio<g ref="char:cmbAbbrStroke">̄</g>. Pardon me if you find me not ſo eloquent in writing as the diſcourſe requiereth, and the worthenes of the victory doth merrit. A ſoldior hath ſmall retoricke, for whoſouer followeth Mars taketh little aquan<g ref="char:EOLhyphen"/>tance of the Muſes, yet being loth deſerued honnor ſhould be obſcured and caſt in darke obliuion I haue bluntly preſumed to write y<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the naked truth, hoping you will take my good<g ref="char:EOLhyphen"/>will in good parte, and yeeld honnor his due deſert, though rudely deciphered. And thus wiſhing your welfare I end.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:173824:3"/>
+            <pb facs="tcp:173824:3"/>
+            <head>Newes from Breſt.</head>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <seg rend="decorInit">T</seg>He firſt of September our worthy Generall <hi>Sir Iohn Norreis,</hi> landing with new forces out of Englande at <hi>Penpole</hi> receaued letters pre<g ref="char:EOLhyphen"/>ſently from Mareſhall <hi>D'Aumond</hi> and <hi>Sir Thomas Baskeruil,</hi> who com<g ref="char:EOLhyphen"/>maunded in his abſence the eng<g ref="char:EOLhyphen"/>liſh troopes being then before the caſtle of <hi>Morlayx,</hi> in what tearmes they ſtoode expecting e<g ref="char:EOLhyphen"/>uery day to bee fought with all by the enemy Duke <hi>Mer<g ref="char:EOLhyphen"/>curie</hi> who was aduaunced for the ſame purpoſe within three leagues of them, and did but onely attend the com<g ref="char:EOLhyphen"/>ming of Mounſer <hi>Boifdolphin,</hi> with ſome french horſe to ioyne with them, but this their temporizinges in the ende coſt them the caſtle, for immediately the very nexte day after ſhe generalls landing with greate expedition, <milestone type="tcpmilestone" unit="unspecified" n="2"/> to wit the ſecond of September, he put himſelfe vpon the way to <hi>Morlayx,</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> and vpon the fifte of the ſame moneth a<g ref="char:EOLhyphen"/>riued there, being fourteene leagues diſtant.</p>
+            <p>His comming was generally ioyed at by all the <hi>Britons</hi> but eſpecially by the inhabitants of <hi>Morlaix</hi> whoſe good, or ill eſtate depended on his comming, for both the caſtle a cruell neighbour held againſt them, and the Duke <hi>Mer<g ref="char:EOLhyphen"/>curie</hi> was at hande to reſkew the defendants who in aſſu<g ref="char:EOLunhyphen"/>rance of reliefe from him acquitted themſelues manfully. Namely the gouernour himſelfe <hi>Monſer Rochempoul,</hi> ſhe Count <hi>Magnion,</hi> and <hi>Monſer Roſtin,</hi> with diuers other gallants: but the generall ſo amated the enemy that the Duke <hi>Mercurie</hi> not onely ſtayed from marching nearer vnto vs, <milestone type="tcpmilestone" unit="unspecified" n="10"/> but the 10. of the ſame retired with all his forces both French and Spaniſh, aſſuring himſelfe that he could expect of <hi>Sir Iohn Norris</hi> nothing but blowes, <milestone type="tcpmilestone" unit="unspecified" n="12"/> They of the caſtle acquainted therewith: within 2. dayes after the Dukes retreict yealded vp the caſtle. So that onely his
+<pb facs="tcp:173824:4"/>
+preſence without the hazard of any of her Maieſties ſub<g ref="char:EOLhyphen"/>iects, both enforced the Duke to retire, and the caſtle to yealde.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="22"/> This caſtle thus rendered, we ſtaied there 10 dayes in reſpect that the <hi>Marſhall</hi> wanted money for the ſatiſfy<g ref="char:EOLhyphen"/>ing of his people, whereof at the laſt he was fourniſhed by thoſe of the towne of <hi>Morlaix.</hi> Then Monſiur <hi>de Lyſcot</hi> a wonderfull braue man and the barron of <hi>Molac</hi> were ſent before with ſome harquebuziers, to the ende they might block vp the fort of <hi>Croyzon</hi> by <hi>Breſt,</hi> and preſerue the quarters about, who were further aſſiſted with 400 men out of our ſhipps by ſir <hi>Martin Fourbyſſher</hi> who com<g ref="char:EOLhyphen"/>manded the Engliſh ſhippings. <milestone type="tcpmilestone" unit="unspecified" n="24"/> And preſentlie the army diſlodged to a place called <hi>Iuez</hi> thence too a village called <hi>La Fou,</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="26. 27"/> next to <hi>Chaſtrau-lyn</hi> the nexte daie to <hi>Lacornan</hi> a village thrée leagues from <hi>Quinper-Corentin</hi> which was held by the enimy.</p>
+            <p>The ſame night the <hi>Marſhall</hi> with 400 french and Sir <hi>Ihon Norris</hi> with as many Engliſh marched to <hi>Quinpar-Corantin,</hi> and on a ſuddaine ſurpriſed the ſuburbes &amp; poſ<g ref="char:EOLhyphen"/>ceſſed them with ſmale reſiſtance. The town was willing to yéeld but that the garriſon would not ſuffer them.<milestone type="tcpmilestone" unit="unspecified" n="30"/> But Sir <hi>Ihon Norries</hi> whoſe mind was ſtill to do ſome exploit againſt the Spagniardes at the forte of <hi>Croyzon,</hi> leauing this towne inueſted by the <hi>Marſhall</hi> and thrée of our En<g ref="char:EOLhyphen"/>gliſh regiments, <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>maunded by his brother ſir <hi>Henry Norris</hi> our Lieutena<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Generall, himſelfe onely with his owne regiment, and his owne companie of horſe, mar<g ref="char:EOLhyphen"/>ched towards the fort,and lodged that night at <hi>Croyzon.</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> And the next day ſate downe before the forte. Thrée daies were ſpent in vnſhipping; <milestone type="tcpmilestone" unit="unspecified" n="2. 3. 4."/> and bringing vp the artillerie, which were 14 péecis (whereof the <hi>Marſhall</hi> furniſhed but 2 culueringes) and in making of approches, which was greatly hindered by the want of <hi>Gabions</hi> Pioners, and o<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:173824:4"/>
+prouiſions for the making of platformes, which wée hoped by promiſe to haue had in a redines ſent vs from the gouerner of <hi>Breſt</hi> but our Generall could procure al<g ref="char:EOLhyphen"/>moſt nothing from thence but with manie difficulties by reaſon of the weather,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> The 5 of this moneth we had newes that the <hi>Marſhall</hi> and ſir <hi>Henrie Noreis</hi> had <hi>Quimper</hi> yelded vnto them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> The 6 of this monthe the ennemie made a ſallie out vpon our trenches but were verie brauelie beaten home againe with the loſſe of 7 or 8 of their men, but yet this their loſſe was very vnfortunatelie anſwered by the death of Captaine <hi>Anthonie wingfield</hi> our Sergeant Maior ge<g ref="char:EOLhyphen"/>nerall being ſhot with a Cannon out of the fort, as hee ſtoode by the gabions with his rapier drawen the which with the ſhot was beaten through his bowels. This man with great reputation had long time ſerued her Maieſtie both in the wars of the lowe Countries, Portugall, and France: and at his laſt going into Britaine, ſo diſpoſed of his eſtate as if he were neuer to returne; and the ſame daie or the daie before his death, tooke ſuch order for his debtes as if he had a preſage of his ende.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> The next daie the <hi>Marſhall D'Aumonde</hi> and ſir <hi>Henrie Norries</hi> with our Engliſh regiments, came to vs from <hi>Quimper</hi> and were quartered at <hi>Croyzon</hi> and thereabouts.<milestone type="tcpmilestone" unit="unspecified" n="8. 9 10. 11"/> After whoſe comming 4 daies were ſpent in mounting of the artillerie; planting of our ordinance and making of platformes for them to plaie. On the 12 the ennemie made a ſallie vppon the french trenches,<milestone type="tcpmilestone" unit="unspecified" n="12"/> who hauing not the lea<g ref="char:EOLhyphen"/>ſure to arme them ſelues loſt betwéene 30 and 40 men and as manie hurte, and from thence they aduaunced themſelues towardes our trenches, where we loſt in their defence ten or twelue men but we did put them again in poſſeſſion of their trenches.</p>
+            <p>Hauing now all things reddie for the batterie, I will
+<pb facs="tcp:173824:5"/>
+as well as I can deſcribe vnto you the forte.</p>
+            <p>You ſhall vnderſtand that more then 2 partes of the fort was defended by the water, the reſt was made ſo ex<g ref="char:EOLhyphen"/>ceeding ſtrong as either by arte or charge could be don.</p>
+            <p>On the ſouth front therof on each corner were too excée<g ref="char:EOLhyphen"/>ding ſtrong baſtions that on the weſt ſide was 17 paſſes in the fronte, that on the eaſt 10 paſſes: the courtaine be<g ref="char:EOLhyphen"/>twéene both was 37 foote thicke at the toppe; and within theſe they had made a verie large intrenchmente, and the baſtions were exceeding well flanked from the rocke by the water ſide planting both on the flankers and baſtion ſome great ordinance. We lay entrenched within thrée or fower paces of their counterſcarp: the french men on the Eaſt ſide and we on the weſt ſide, the batterie lay in y<hi rend="sup">e</hi> mid<g ref="char:EOLhyphen"/>deſt betwéene the trenches. <milestone type="tcpmilestone" unit="unspecified" n="23"/> Theſe things thus prouidentlie ordered by the <hi>Marſhall</hi> and our Generall; on the 23 our artilerie began to plaie, and continued ſome 700 canno<g ref="char:EOLhyphen"/>nodos but did ſo little harme by reaſon of the ſtrength of the place as ſcarce anie ſhew of a breach appeared, only we did beat awaie their parrapete and ſome of their flan<g ref="char:EOLhyphen"/>kers wherevpon ſome hundred men commanded by Cap<g ref="char:EOLunhyphen"/>taine <hi>Lyſter,</hi> were ſent to vewe and ſee it they could holde the counterſcarp. Then manie of our braue men and gal<g ref="char:EOLunhyphen"/>lants thirſting after honor: deſirous to do ſomewhat far<g ref="char:EOLhyphen"/>ther hauing poſſeſſed themſelues of the ennimies counter<g ref="char:EOLunhyphen"/>ſcarp, which onelb they were commaunded to attempte vndertooke the bréech which they performed ſo well as that notwithſtanding the vnacceſſablenes of the place, and the gerat reſiſtance the ennimie made. Yet the moſt parte of them attained to the verie top thereof which they helde for a while but were afterwardes repulſed. This enterpriſe was with wonderfull great reſolution and valure ſecon<g ref="char:EOLhyphen"/>ded by ſir <hi>Thomas Baſqueruille,</hi> who likewiſe got ſo farre as the point of the breach.</p>
+            <p>
+               <pb facs="tcp:173824:5"/>There were loſt in this attempt many braue men namely,
+<list>
+                  <head>Slaine in the aſſault.</head>
+                  <item>Captaine Barker.</item>
+                  <item>Captaine Prudder.</item>
+                  <item>Captaine Iackſon, Serieant Maior of Oſtend. who had no charge there.</item>
+                  <item>Haynes. Enſigne to ſir Henrie Noreys.</item>
+                  <item>Corporall Eſsix,</item>
+                  <item>M. Throgmorton, and ſome 16 or 18 ſodiors.</item>
+               </list>
+               <list>
+                  <head>Hurte in the aſſalte.</head>
+                  <item>Captaine Audley.</item>
+                  <item>Captaine Bartley.</item>
+                  <item>Captaine Coutch.</item>
+                  <item>Captaine Goodwins Lieutenant.</item>
+                  <item>Captaine Williams Lieutenant.</item>
+                  <item>Captaine Buckes. Lieutenant,</item>
+                  <item>And other priuate men.</item>
+               </list>
+               <list>
+                  <head>Burned with pouder.</head>
+                  <item>Sir Thomas Knowles.</item>
+                  <item>Captaine Aſhendon.</item>
+                  <item>Captaine Biſhop.</item>
+                  <item>Lieutenant Larkeley.</item>
+                  <item>Captaine Lopeley.</item>
+                  <item>Maſter Waineman, and diuers others.</item>
+               </list>
+            </p>
+            <pb facs="tcp:173824:6"/>
+            <p>You are to vnderſtand that this attempte was onely made by the Engliſhmen on the baſtion of the weſt ſide, for the Frenche men neuer attempted anie thinge a<g ref="char:EOLhyphen"/>gainſt their Baſtion, aleaging that it was not Aſſalt<g ref="char:EOLhyphen"/>able.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="24"/> The <hi>Mareſhall</hi> and our Generall ſeeing the little ef<g ref="char:EOLhyphen"/>fect that our artillery wrought, deuiſed to make a mine on one of the bulwarkes, namelie on the eaſt baſtion to<g ref="char:EOLhyphen"/>wardes the french trenches in perfecting thereof ſome 17 or 18 daies were ſpente.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="30"/> But on the 30 being an exdéeding wette morning whereby our powder and matche were not fitte for ſeruice the ennemie againe founde thereby opportunitie to fall out vppon the frenche trenches, and killed betweene 20 and 30 of them at the leaſt, among whom was <hi>Monſieur Lyſcot</hi> a verie braue gentleman one of the <hi>Marſhalls</hi> of the Campe, who was abandoned by the frenche and their trenches wholie poſſeſſed by the ennimie, but our Engliſhe men did preſentlie repoſſeſſe them of their trenches and killed ſeme of the Spagniardes. Our nation loſt an ex<g ref="char:EOLhyphen"/>céeding great frende of this <hi>Monſiear Lyſcot</hi> hee excée<g ref="char:EOLhyphen"/>dinglie loued our Generall as if he had ben his owne fa<g ref="char:EOLhyphen"/>ther, and generally fauoured all engliſh men and gaue vs the reputation to be verie braue ſoldiors.</p>
+            <p>By the 7 of Noueember our mine was reaſonable well perfected and a determination held againe to begin the batterie with a reſolution that ſo ſoone as the myne ſhould be blowne vp which was made towardes the bul<g ref="char:EOLhyphen"/>warke by the French trenches, that the frenchmen ſhould aſſaile that parte and the engliſh men their Baſtion, and that others with ſcaling ladders ſhould make attemptes in euerie corner ſo that the defendents ſhould be on eue<g ref="char:EOLhyphen"/>rie parte aſſailed. But the <hi>Mareſhall</hi> beeing that daie ſicke ſente in the morning for our Generall and ſhewed
+<pb facs="tcp:173824:6"/>
+him his letters from the Gouournor of <hi>Rennes</hi> and from diuers others by which hee was aduertiſed that <hi>Don Ioan de l'Auquilar</hi> generall of the Spagniards was mar<g ref="char:EOLhyphen"/>ching towards <hi>Croyzon</hi> with all his ſpaniſh forces to reſ<g ref="char:EOLhyphen"/>kew the fort and was alreadie aduaunced to <hi>La-cornan</hi> a village within fiue leagues of vs, and there fore aduiſed our generall to deſloge to <hi>Croyzon</hi> thinking it not fit to hazard anie men hauing ſo ſtrong an enemie at hand ready to ioyne battel with them. But ſir <hi>I. Norreis</hi> hauing his courage nothing daunted with the approch of the en<g ref="char:EOLhyphen"/>nemie, his harte ſeruing him both to winne the forte by aſſault and to encounter his ennemie in the field, ſhew<g ref="char:EOLhyphen"/>ing what a diſhonor and diſreputation it were to haban<g ref="char:EOLhyphen"/>don the ſeege, and alſo what little cauſe the ennemie ſhould haue to aduaunce himſelfe farther if the forte were gotten, his comming being onely to reskewe it. He ſo much importuned the <hi>Mareſchall</hi> that he gaue him wholie the ordering of that daies ſeruice. Immediatlie our Gen<g ref="char:EOLunhyphen"/>nerall gaue order to the Cannoniers for the batterie and cauſed the artillerie to plaie. Euery man was aſſigned his charge, ſome to the aſſault, other with ſcalodos to at<g ref="char:EOLhyphen"/>tempt, to enter, and by 12 of the clocke he cauſed fire to be ſet to the mine, which albeit it did not ſo much as was looked for, yet it made the acceſſe ſo eaſie vnto the French as that a man might haue ridden vp vpon horſebacke, and our men namely: <hi>Captaine Latham, Captaine Smith, and Captaine Iohn Norreis,</hi> with diuers other gallant gentle<g ref="char:EOLhyphen"/>men gaue vpon the other bulwarke, and continued the aſſault without looſing onepaſe of the highth vntill halfe an houre paſt foure, and in the end firſte entered the ſame, and ſeiſed vpon three enſignes that were there, and put e<g ref="char:EOLhyphen"/>uery man they found in the fort ſauing one alferez to the ſword, ſome of the Spaniards lept from the rocke to the
+<pb facs="tcp:173824:7"/>
+water, but our Marriners with their ſmall boales mette with them and ſlew them: ſome thrée or foure others be<g ref="char:EOLhyphen"/>ing taken eſcaped with their liues, no man was found, ſlayne <hi>Au ſang Froyd.</hi>
+            </p>
+            <p>
+               <hi>Sir Thomas Baskeruill</hi> ſerued this day with greate va<g ref="char:EOLhyphen"/>lure and induſtrie to the admiration of all men. Our ſea men and Mariners this day acquitted themſelues won<g ref="char:EOLhyphen"/>derfull brauely: and were exceeding forwarde in all at<g ref="char:EOLhyphen"/>temptes, as maye well appeare by that valiant <hi>Knight Sir Martin Fourbiſher,</hi> who in the aſſault receauing a hurt, is thereof now dead.</p>
+            <p>The chiefeſt of the French men, namely ſuch gentil<g ref="char:EOLhyphen"/>men as ſeruing a horſebacke, did put themſelues that daye a foote, did exceeding gallantly, namely Mounſer <hi>Roumege, Vn Maiſtre du Camp,</hi> a man of great courage, and who moſt intirely loued our generall was ſlain, vpon the rampear, and his enſigne by him, who if they had bin well ſeconded vndoubtedly they had caried it firſt, and had got the reputation of the firſt entrie. As for the reſt I hold them nothing worthy of comendations in this action.</p>
+            <list>
+               <head>Slane in the aſſault.</head>
+               <item>Captaine Edge once Captaine of our generalls gard.</item>
+               <item>Lieutenant Flud.</item>
+               <item>Captaine Smiths Lieutenant.</item>
+               <item>Enſigne to Captaine Brett.</item>
+               <item>VIII. Gent. of our generals owne company.</item>
+               <item>Manie other gentlemen and betwene 20. or 30. priuate men</item>
+            </list>
+            <list>
+               <head>Hurt in the aſſalt.</head>
+               <item>Sir Thomas Baskeruille.</item>
+               <item>Sir Martin Fourbiſher who is now dead.</item>
+               <item>Captaine Iohn Norreis</item>
+               <item>Captaine Brett.</item>
+               <item>Captaine Smith.</item>
+            </list>
+            <p>
+               <pb facs="tcp:173824:7"/>The victory beeing thus gotten by the greate vertue and admirable induſtery of our generall, the forte being appointed to be raiſed, we diſloged the next day to <hi>Croy<g ref="char:EOLhyphen"/>zon,</hi> to ioyne with ſhe reſt of our troupes,<milestone type="tcpmilestone" unit="unspecified" n="8"/> to attend there what the enemy durſte doo, who within two dayes after, founde reaſon to retyre themſelues fiue leagues further from vs.</p>
+            <p>Thus haue I finiſhed I aſſure you truly, although not largely: all that was moſt remarcable in this dayes ſer<g ref="char:EOLhyphen"/>uice.</p>
+            <p>It may bee I giue not namely to euery man the ho<g ref="char:EOLhyphen"/>nour he deſerued, but therein I excuſe my ſelfe with my ſhortneſſe in writing, and alſo my ſelfe being herein an actor, my eye was not at leiſure to note euery mans de<g ref="char:EOLhyphen"/>ſert. There was founde in the fort 29. barrels of powder, ſome mach, and very few ſmall ſhotte: and of meate, biſ<g ref="char:EOLhyphen"/>cuit, wine and beefe reaſonable good ſtoare. I muſt a lit<g ref="char:EOLhyphen"/>tle commend the defendants for an enemy, deſerueth his iuſt praiſe, eſpecially the chiefe ommander. Hee neuer in all theſe attempts ſhewed himſelfe daunted, hee made ſundry ſallies, but moſte vpon the French, to his greate aduantage and reputation. He loſt before this laſt daies ſeruice 60. men, ſome at his ſalies, ſome with our cannon, and ſome at our firſt attempte vppon the breach, alſo this very laſte day our cannon playing inceſſantly vppon the mayne courtaine, betweene the two baſtions flew fiftie of his men. This laſte aſſaulte continewed almoſte fiue howers without intermiſſion, they neuer quailed vntill hee was ſlaine, which was a ſmall time before the entrie, and then the greater parte being ſlaine the reſte ouer<g ref="char:EOLhyphen"/>tired and hurte, weare forced by our gallantes to re<g ref="char:EOLhyphen"/>tyre, and ſo there were ſlaine of Spagniards in this forte
+<pb facs="tcp:173824:8"/>
+almoſt 400. I note another ſigne of his greate reſoluti<g ref="char:EOLhyphen"/>on, for if hee founde any willing onely to ſpeake of yeal<g ref="char:EOLhyphen"/>ding, he woulde cauſe him to bee bound to ſome ſtake or poſt, and expoſed him to the breach, leauing his armes at libertie to fight for his defence. I hope no man will miſ<g ref="char:EOLhyphen"/>like if I commende the valour of the enemy which was conquered, for the greater is the honour of them that were the conquerors. This their vaine reſolution might well haue ſerued their turnes, if they had not dealte with our generall who was as reſolute as they, and there in ouer<g ref="char:EOLhyphen"/>macht them. For the next day, <hi>Don Ioan de l'Aquilar</hi> ſen<g ref="char:EOLhyphen"/>ding a trumpet for the redeeming of priſoners, our gene<g ref="char:EOLhyphen"/>rall ſente him anſwere that their ranſomes were payed, and that hee was nowe as ready and at leaſure to fighte with him. This victory achiued, he ſente the three Spa<g ref="char:EOLhyphen"/>niſh enſignes into Englande, and preſented them to her Maieſty, who as a moſt ſacred and graſious prince, moſt highly eſteemed, and louingly accepted them. God of his infinit mercy ſend her dayly ſo to triumph ouer her ene<g ref="char:EOLunhyphen"/>mies, and that it will pleaſe him to protect our generall for her greater ſeruices.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:173824:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
